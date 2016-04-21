@@ -1,0 +1,57 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/arsan/projects/walmart/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/arsan/projects/walmart/app/models/review.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        2,
+        1,
+        2,
+        1,
+        null,
+        null,
+        1,
+        9,
+        null,
+        null
+      ],
+      "/home/arsan/projects/walmart/app/models/product.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        8,
+        8,
+        null,
+        null
+      ],
+      "/home/arsan/projects/walmart/app/models/customer.rb": [
+        1,
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1461239521
+  }
+}
